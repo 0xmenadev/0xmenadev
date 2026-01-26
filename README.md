@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matías
 
 💻 Software Development Student  
-🧠 Learning C#, databases, programming fundamentals and low-level concepts 
+🧠 Learning C#, databases, programming fundamentals 
 🐧 Linux enthusiast  
 🔍 Debugging one bug at a time  
 
