@@ -8,6 +8,8 @@
 ---
 
 ### 🛠️ Tech Stack
+- Python
+- C++
 - C#
 - SQL / Databases
 - HTML & CSS
