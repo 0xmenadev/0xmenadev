@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matías
 
 💻 Software Development Student  
-⚙️ Degree in Industrial Maintenance (Combining hardware logic with software)
+⚙️ Degree in Industrial Maintenance
 🧠 Learning C#, databases, programming fundamentals 
 🐧 Linux enthusiast  
 🔍 Debugging one bug at a time  
