@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** C#, SQL, Python, HTML & CSS
-- **Tools:** Git & GitHub, VSCode, Microsoft Visual Studio, MIT App Inventor
+- **Tools:** Git & GitHub, VSCode, Microsoft Visual Studio
 - **Basic Knowledge:** C++ (Academic background)
 
 ---
